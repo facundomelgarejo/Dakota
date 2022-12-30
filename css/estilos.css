@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(202, 202, 202);
+    height:100%;
+    width:100%;
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.display-content{
+    height:auto;
+    width:414px;
+    margin:0px auto;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 5px 6px #171a3044;
+}
+
+.name{
+    font-size: 30px;
+    font-weight: 550;
+}
+
+.downname{
+    font-size: 30px;
+}
+
+.conteiner-name{
+    padding: 20px;
+    background-color: rgb(255, 213, 253);
+    border-radius: 0px 0px 0px 30px;
+}
+
+.fotodatoka{
+    padding: 40px;
+
+}
+
+.carousel{
+    background-color: white;
+}
+
+.conteiner-carusel{
+ background-color: rgb(255, 213, 253);
+
+
+}
+
+.cuadrado{
+    height: 40px;
+    border-radius: 0px 30px 0px 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+  .datos{
+    text-decoration: none;
+    list-style-type:none;
+    text-align: left;
+  }
