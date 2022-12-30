@@ -7,11 +7,8 @@ body{
 }
 
 .display-content{
-    height:auto;
-    width:414px;
-    margin:0px auto;
     background-color: rgb(255, 255, 255);
-    box-shadow: 10px 5px 6px #171a3044;
+
 }
 
 .name{
@@ -55,4 +52,14 @@ body{
     text-decoration: none;
     list-style-type:none;
     text-align: left;
+  }
+
+  @media (min-width: 450px) {
+    .display-content{
+        height:auto;
+        width:414px;
+        margin:0px auto;
+        background-color: rgb(255, 255, 255);
+        box-shadow: 10px 5px 6px #171a3044;
+    }
   }
