@@ -12,12 +12,13 @@ body{
 }
 
 .name{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 550;
 }
 
 .downname{
-    font-size: 30px;
+    font-size: 25px;
+    
 }
 
 .conteiner-name{
